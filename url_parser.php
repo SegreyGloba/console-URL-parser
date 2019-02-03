@@ -1,7 +1,6 @@
 <?php
 include 'output.php';
 include 'parsedQuery.php';
-gi
 
 $parseHost = explode('.', str_replace('www.', '', $host));
 
